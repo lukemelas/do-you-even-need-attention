@@ -1,7 +1,7 @@
 <div align="center">   
 
 ## Do You Even Need Attention? <br /> A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet
-### [Paper/Report](https://github.com/lukemelas/do-you-even-need-attention/blob/main/Do-You-Even-Need-Attention.pdf)
+### [Paper/Report](https://arxiv.org/abs/2105.02723)
 </div>
  
 ### TL;DR 
